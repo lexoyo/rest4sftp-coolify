@@ -3,5 +3,5 @@ version: 3
 services:
   rest4sftp:
     image: "uberto/rest4sftp"
-    port: 9990:8080
+    port: 9990
     command: --sftp
