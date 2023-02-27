@@ -2,6 +2,6 @@ version: '3.8'
 
 services:
   rest4sftp:
-    image: "uberto/rest4sftp"
+    image: "ubertob/rest4sftp"
     ports: [9990]
     command: --sftp
